@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.text-decorator-none {
+  text-decoration: none;
+  color: #000000;
+}
+
+.common-label {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.common-text {
+  font-size: 20px;
+}
+
+.date {
+  border: 1px solid black;
+}
+
+.nft-table {
+  width: 100%;
+  border: 1px solid #d9d9d9;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+.nft-th,
+.nft-td {
+  border: 1px solid #d9d9d9;
+  padding: 10px;
+}
